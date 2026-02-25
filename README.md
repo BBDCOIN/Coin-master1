@@ -1,12 +1,1 @@
-{
-  "name": "coin-master1",
-  "version": "1.0.0",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
-  "dependencies": {
-    "telegraf": "^4.16.3",
-    "better-sqlite3": "^9.4.3"
-  }
-}
+https://api.render.com/deploy/srv-d6fdnp1aae7s7390f9f0?key=dzbsfOs0mCwQ
